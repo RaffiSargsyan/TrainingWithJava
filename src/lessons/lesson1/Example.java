@@ -19,7 +19,7 @@ public class Example {
         System.out.println(v);
 
         char q = '$';
-        char qq = '\u003F';
+        char qq = '\u003F';  //about unicode with type char
         System.out.println(q);
         System.out.println(qq);
 

@@ -4,6 +4,7 @@ public class Example {
     public static void main(String[] args) {
         System.out.print("Hello World \n");
         System.out.println("How are you");
+
         byte a = -127;
         a = 1;
         a = -1;
@@ -30,6 +31,7 @@ public class Example {
         System.out.println(firstName + " " + lastName);
         //  about String for +
         int k = 12244;
-        System.out.println("k= " + k);
+        System.out.println("k = " + k);
+        
     }
 }

@@ -24,7 +24,8 @@ public class LogOperators {
 
         if (response.equals("q") || response.equals("Q")) {
             System.out.println("You quit the game");
-        } else {
+        }
+        else {
             System.out.println("You are still playing the game");
         }
     }

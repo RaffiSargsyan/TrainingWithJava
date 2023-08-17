@@ -29,6 +29,7 @@ public class MathExample {
         y = scanner.nextDouble();
 
         z = Math.sqrt((x * x) + (y * y));
+//        z = Math.max(x, y);
 
         System.out.println("The hypotenuse is: " + z);
 

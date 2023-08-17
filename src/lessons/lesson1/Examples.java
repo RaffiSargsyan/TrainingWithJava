@@ -21,6 +21,5 @@ public class Examples {
         y = temp;
         System.out.println("name: " + x);
         System.out.println("name2: " + y);
-
     }
 }

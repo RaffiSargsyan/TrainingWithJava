@@ -19,9 +19,7 @@ public class Pizza {
 
         this.bread = bread;
         this.sauce = sauce;
-
     }
-
 
     Pizza(String bread, String sauce, String cheese) {
 

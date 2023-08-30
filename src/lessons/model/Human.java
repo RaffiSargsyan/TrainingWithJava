@@ -1,11 +1,12 @@
-package lessons.lesson7;
+package lessons.model;
 
 public class Human {
-    public String firstName;
-    public String lastName;
-    public int year;
-    public boolean isArmenian;
-    public char gender;
+   public String firstName;
+   public String lastName;
+   public int age;
+   public int year;
+   public boolean isArmenian;
+   public char gender;
 
     public void sayHello() {
         System.out.println("Hello");

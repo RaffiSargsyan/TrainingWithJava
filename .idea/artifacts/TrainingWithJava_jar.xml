@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrainingWithJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrainingWithJava_jar</output-path>
+    <root id="archive" name="TrainingWithJava.jar">
+      <element id="module-output" name="TrainingWithJava" />
+    </root>
+  </artifact>
+</component>

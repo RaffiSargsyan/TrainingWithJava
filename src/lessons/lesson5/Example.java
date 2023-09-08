@@ -32,6 +32,24 @@ public class Example {
         //  about String for +
         int k = 12244;
         System.out.println("k = " + k);
-        
+
+
+        byte e = 10;
+        int t = -129;
+        e = (byte) t;
+        System.out.println(e);
+
+        e++;
+        System.out.println(e);
+
+        String y = "21";
+//        int q2 = (int) s; This is wrong
+        int q1 = Integer.parseInt(y);
+
+
+
+
+
+
     }
 }

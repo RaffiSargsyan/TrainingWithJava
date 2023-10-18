@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Test {
+public class Test2 {
     public static void main(String[] args) {
         Musician pianist = new Musician() {
             @Override
